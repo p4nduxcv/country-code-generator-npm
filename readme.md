@@ -16,13 +16,13 @@ npm install country-code-generator
 Import the getCountryCode function from the package:
 
 ```js
-const { generateCountryCode } = require('getCountryCode');
+const { getCountryCode } = require('country-code-generator-npm');
 ```
 
 Call the getCountryCode function with a country name to get the corresponding country code:
 
 ```js
-const countryCode = generateCountryCode('Sri Lanka');
+const countryCode = getCountryCode('Sri Lanka');
 console.log(countryCode); // Output: 'lk'
 ```
 You can now use the generated country code in your CSS classes or wherever you need it.
