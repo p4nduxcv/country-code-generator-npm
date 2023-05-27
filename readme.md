@@ -1,6 +1,7 @@
 # country-code-generator
 
 [![8.14.0](https://badge.fury.io/js/country-code-generator.svg)](https://badge.fury.io/js/country-code-generator)
+[![Yearly Downloads](https://img.shields.io/npm/dy/{package-name}.svg)](https://www.npmjs.com/package/country-code-generator)
 
 The "country-code-generator" npm package provides a simple solution to generate country codes from country names effortlessly. It eliminates the hassle of manually converting country names to codes, making it easy to incorporate country codes into CSS classes or other use cases.
 

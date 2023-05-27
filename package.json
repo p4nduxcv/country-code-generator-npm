@@ -1,13 +1,13 @@
 {
-  "name": "country-code-generator-npm",
-  "version": "1.3.0",
+  "name": "country-code-generator",
+  "version": "1.4.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/p4nduxcv/country-code-generator-npm"
